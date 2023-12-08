@@ -16,8 +16,8 @@ def connect_to_wifi(ssid, password):
 
 if __name__ == "__main__":
     # Replace 'your-wifi-ssid' and 'your-wifi-password' with the actual values
-    wifi_ssid = "THETAXS00312899.OSC"
-    wifi_password = "00312899"
+    wifi_ssid = "THETAXS00312899.OSC" #cameras wifi ssid
+    wifi_password = "00312899"  #wifi password
 
     # Call the connect_to_wifi function
     connect_to_wifi(wifi_ssid, wifi_password)
